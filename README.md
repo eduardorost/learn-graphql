@@ -1,4 +1,4 @@
-Exemplo desenvolvido para apresentação sobre GRAPHQL nas disciplina Arquitetura de Software - UNISINOS
+Exemplo desenvolvido para apresentação sobre GRAPHQL na disciplina Arquitetura de Software - UNISINOS
 
 ##Installation
 
